@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+DEW2LIVE objects:
+    Objects with requisites in library DEW2LIVE: 7
+    Objects with requisites in library DEW2LIVE: 7
+    Objects with requisites in library DEW2SRC: 13
+
+Detail report:
+DEW2LIVE objects:
+    Objects with requisites in library DEW2LIVE:
+        *FILE LF        DEW2LIVE/CUSMSTL1                   
+        *FILE LF        DEW2LIVE/CUSMSTL2                   
+        *FILE LF        DEW2LIVE/CUSMSTL3                   
+        *FILE DSPF      DEW2LIVE/MNTMENU                    
+        *FILE DSPF      DEW2LIVE/SCHNAMD                    
+        *FILE DSPF      DEW2LIVE/SCHZIPD                    
+        *PGM RPGLE      DEW2LIVE/CUSTMAINT                  
+    Objects with requisites in library DEW2SRC:
+        *CMD            DEW2LIVE/CUSTMAINT                  
+        *FILE PF        DEW2LIVE/CUSMST                     
+        *FILE LF        DEW2LIVE/CUSMSTL1                   
+        *FILE LF        DEW2LIVE/CUSMSTL2                   
+        *FILE LF        DEW2LIVE/CUSMSTL3                   
+        *FILE DSPF      DEW2LIVE/MAINMENU                   
+        *FILE DSPF      DEW2LIVE/MNTMENU                    
+        *FILE DSPF      DEW2LIVE/SCHNAMD                    
+        *FILE DSPF      DEW2LIVE/SCHZIPD                    
+        *MODULE RPGLE   DEW2LIVE/CUSMAIN                    
+        *MODULE RPGLE   DEW2LIVE/CUSMNT                     
+        *MODULE RPGLE   DEW2LIVE/SCHNAM                     
+        *MODULE RPGLE   DEW2LIVE/SCHZIP                     
+End of Requisite Location Report.

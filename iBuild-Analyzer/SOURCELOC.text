@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+DEW2LIVE objects:
+    Objects with source in library DEW2SRC: 14
+
+Detail report:
+DEW2LIVE objects:
+    Objects with source in library DEW2SRC:
+        *MODULE RPGLE   DEW2LIVE/CUSMAIN                    
+        *FILE DSPF      DEW2LIVE/MAINMENU                   
+        *MODULE RPGLE   DEW2LIVE/CUSMNT                     
+        *FILE LF        DEW2LIVE/CUSMSTL1                   
+        *FILE PF        DEW2LIVE/CUSMST                     
+        *FILE DSPF      DEW2LIVE/MNTMENU                    
+        *MODULE RPGLE   DEW2LIVE/SCHNAM                     
+        *FILE LF        DEW2LIVE/CUSMSTL3                   
+        *FILE DSPF      DEW2LIVE/SCHNAMD                    
+        *MODULE RPGLE   DEW2LIVE/SCHZIP                     
+        *FILE LF        DEW2LIVE/CUSMSTL2                   
+        *FILE DSPF      DEW2LIVE/SCHZIPD                    
+        *PGM RPGLE      DEW2LIVE/SCHNAMRPG                  
+        *CMD            DEW2LIVE/CUSTMAINT                  
+End of Source Location Report.
